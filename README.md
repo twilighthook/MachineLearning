@@ -1,2 +1,2 @@
 # MachineLearning
-The machine learning code
+python練習機器學習
